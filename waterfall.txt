@@ -1,5 +1,5 @@
 metode waterfall merupakan metode pengembangan perangkat lunak tertua sebab sifatnya yang natural
-tahap - tahap 
+langkah langkah 
 1. requirements analysis
 2. system and software design
 3. implementation and unit testing
