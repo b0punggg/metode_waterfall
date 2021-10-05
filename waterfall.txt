@@ -5,4 +5,5 @@ tahap - tahap
 3. implementation and unit testing
 4. integeration and system testing
 5. operation and maintenance
-6. 
+penjelasan dari masing masing tahap
+- requirements analysis Sebelum melakukan pengembangan perangkat lunak, seorang pengembang harus mengetahui dan memahami bagaimana informasi kebutuhan penggguna terhadap sebuah perangkat lunak.
